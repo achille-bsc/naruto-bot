@@ -1,0 +1,110 @@
+{
+    "TOKEN": "OTY2NjIwOTQ3MzA4MjQ1MDAy.YmEZ6A.NGOzBMH5iGT5qnCkrIdUrzXiP_0",
+    "PREFIX": "&",
+    "GuildId": "957566891893878784",
+    "ChanId": {
+        "Welcome": "966704032624279592",
+        "Bye": "966704032624279592",
+        "LogsTicket": "967819589285183518",
+        "Suggestion": "967831484511686656",
+        "Videast": "972068674313789470"
+    },
+    "CatId": {
+        "Tickets": "967823065377554493"
+    },
+    "ColorEmbeds": {
+        "Welcome": "#4b9b25",
+        "Bye": "#ca4825",
+        "Ban": "#d90000",
+        "Kick": "#8e1e1e",
+        "ServerInfo": "#0e844b",
+        "UserInfo": "#14b9aa",
+        "TicketMessage": "#4f4193",
+        "Suggestion": "#90269b",
+        "HelpCommand": "#225892",
+        "sondages": "#4ED5F8",
+        "Banner": "#761645",
+        "Avatar": "#761645",
+        "Perms": "#5e99a5",
+        "NotPermissions": "#a81200",
+        "Warn": "#942896",
+        "InviteList": "#8a496c"
+    },
+    "autoRole": {
+        "News": "971811973408907374",
+        "MAJ": "971812014689239060",
+        "PatchNote": "971812041658609674",
+        "Vidéaste": "971812069957578832",
+        "Règlement": "972127547171143730",
+        "Sondages": ""
+    },
+    "staffIdRole": "967820029406109740",
+    "ticketPermission": {
+        "support": [
+            {
+                "id": "967820029406109740",
+                "allow": [
+                    "VIEW_CHANNEL",
+                    "SEND_MESSAGES",
+                    "ATTACH_FILES"
+                ]
+            }
+        ],
+        "administration": [
+            {
+                "id": "967820029406109740",
+                "allow": [
+                    "VIEW_CHANNEL",
+                    "SEND_MESSAGES",
+                    "ATTACH_FILES"
+                ]
+            }
+        ],
+        "recrutement": [
+            {
+                "id": "967820029406109740",
+                "allow": [
+                    "VIEW_CHANNEL",
+                    "SEND_MESSAGES",
+                    "ATTACH_FILES"
+                ]
+            }
+        ],
+        "autre": [
+            {
+                "id": "967820029406109740",
+                "allow": [
+                    "VIEW_CHANNEL",
+                    "SEND_MESSAGES",
+                    "ATTACH_FILES"
+                ]
+            }
+        ]
+    },
+    "FootersEmbed": "Staff de NarutoIsland",
+    "ActivityMessages": [
+        "Le bot est opérationnel !",
+        "Nous recrutons...",
+        "Commande de help: &help"
+    ],
+    "videastList": [
+        "UCYmBxTytIIcUudIX90U1zZg"
+    ],
+    "VideastMessage": "Hey {mention}, __{author}__ vient de sortir une nouvelle vidéo sur YouTube, **{title}**, n'hésitez pas à aller la voir ! :thumbsup: \n{url}",
+    "watchInterval": 30000,
+    "Stats": {
+        "Members": {
+            "name": "❰ 👨 ❱ Members: {x}",
+            "ChanId": "972136792142798929"
+        },
+        "Boosts": {
+            "name": "❰ 🚀 ❱  Boosts: {x}",
+            "ChanId": "972136845951504384"
+        },
+        "MembersIg": {
+            "name": "❰ 👨 ❱ MembersIg: {x}",
+            "ChanId": "972136903233130566"
+        }
+    },
+    "welcomeRoles": []
+}
